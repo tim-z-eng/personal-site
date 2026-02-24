@@ -1,0 +1,6 @@
+.hero-gradient{
+  padding: 64px 32px;
+  border-radius: 6px;
+
+  background: linear-gradient(135deg, #87CEFA, #87CEEB);
+}
